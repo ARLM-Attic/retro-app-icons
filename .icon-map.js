@@ -19,6 +19,7 @@ module.exports = {
 
   // extra-icons
   "crosshair": "extra-gps",
+  "crossed-swords": "extra-fight",
 
   // menu icons
   "anatomy": "menu-player",

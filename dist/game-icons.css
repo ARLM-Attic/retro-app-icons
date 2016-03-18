@@ -32,126 +32,130 @@
 	content: "\E003";
 }
 
-.game-icon-status-stun:before {
+.game-icon-extra-fight:before {
 	content: "\E004";
 }
 
-.game-icon-status-burn:before {
+.game-icon-status-stun:before {
 	content: "\E005";
 }
 
-.game-icon-global-money:before {
+.game-icon-status-burn:before {
 	content: "\E006";
 }
 
-.game-icon-menu-logout:before {
+.game-icon-global-money:before {
 	content: "\E007";
 }
 
-.game-icon-status-blind:before {
+.game-icon-menu-logout:before {
 	content: "\E008";
 }
 
-.game-icon-item-tier-3:before {
+.game-icon-status-blind:before {
 	content: "\E009";
 }
 
-.game-icon-extra-gps:before {
+.game-icon-item-tier-3:before {
 	content: "\E00A";
 }
 
-.game-icon-status-regenerate:before {
+.game-icon-extra-gps:before {
 	content: "\E00B";
 }
 
-.game-icon-global-hp:before {
+.game-icon-status-regenerate:before {
 	content: "\E00C";
 }
 
-.game-icon-status-freeze:before {
+.game-icon-global-hp:before {
 	content: "\E00D";
 }
 
-.game-icon-menu-traits:before {
+.game-icon-status-freeze:before {
 	content: "\E00E";
 }
 
-.game-icon-item-tier-1:before {
+.game-icon-menu-traits:before {
 	content: "\E00F";
 }
 
-.game-icon-item-tier-2:before {
+.game-icon-item-tier-1:before {
 	content: "\E010";
 }
 
-.game-icon-menu-options:before {
+.game-icon-item-tier-2:before {
 	content: "\E011";
 }
 
-.game-icon-menu-player:before {
+.game-icon-menu-options:before {
 	content: "\E012";
 }
 
-.game-icon-menu-party:before {
+.game-icon-menu-player:before {
 	content: "\E013";
 }
 
-.game-icon-status-str-plus:before {
+.game-icon-menu-party:before {
 	content: "\E014";
 }
 
-.game-icon-skill-target:before {
+.game-icon-status-str-plus:before {
 	content: "\E015";
 }
 
-.game-icon-menu-inventory:before {
+.game-icon-skill-target:before {
 	content: "\E016";
 }
 
-.game-icon-skill-cooldown:before {
+.game-icon-menu-inventory:before {
 	content: "\E017";
 }
 
-.game-icon-status-mnt-plus:before {
+.game-icon-skill-cooldown:before {
 	content: "\E018";
 }
 
-.game-icon-inventory-menu-item:before {
+.game-icon-status-mnt-plus:before {
 	content: "\E019";
 }
 
-.game-icon-global-mp:before {
+.game-icon-inventory-menu-item:before {
 	content: "\E01A";
 }
 
-.game-icon-menu-world:before {
+.game-icon-global-mp:before {
 	content: "\E01B";
 }
 
-.game-icon-inventory-menu-armor:before {
+.game-icon-menu-world:before {
 	content: "\E01C";
 }
 
-.game-icon-status-luk-plus:before {
+.game-icon-inventory-menu-armor:before {
 	content: "\E01D";
 }
 
-.game-icon-status-acc-plus:before {
+.game-icon-status-luk-plus:before {
 	content: "\E01E";
 }
 
-.game-icon-status-vit-plus:before {
+.game-icon-status-acc-plus:before {
 	content: "\E01F";
 }
 
-.game-icon-inventory-menu-weapon:before {
+.game-icon-status-vit-plus:before {
 	content: "\E020";
 }
 
-.game-icon-status-stealth:before {
+.game-icon-inventory-menu-weapon:before {
 	content: "\E021";
 }
 
-.game-icon-status-shock:before {
+.game-icon-status-stealth:before {
 	content: "\E022";
+}
+
+.game-icon-status-shock:before {
+	content: "\E023";
 }
