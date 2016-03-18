@@ -92,7 +92,7 @@
 	content: "\E012";
 }
 
-.game-icon-menu-player:before {
+.game-icon-status-stealth:before {
 	content: "\E013";
 }
 
@@ -100,59 +100,59 @@
 	content: "\E014";
 }
 
-.game-icon-status-str-plus:before {
+.game-icon-menu-player:before {
 	content: "\E015";
 }
 
-.game-icon-skill-target:before {
+.game-icon-status-str-plus:before {
 	content: "\E016";
 }
 
-.game-icon-menu-inventory:before {
+.game-icon-skill-target:before {
 	content: "\E017";
 }
 
-.game-icon-skill-cooldown:before {
+.game-icon-menu-inventory:before {
 	content: "\E018";
 }
 
-.game-icon-status-mnt-plus:before {
+.game-icon-skill-cooldown:before {
 	content: "\E019";
 }
 
-.game-icon-inventory-menu-item:before {
+.game-icon-status-mnt-plus:before {
 	content: "\E01A";
 }
 
-.game-icon-global-mp:before {
+.game-icon-inventory-menu-item:before {
 	content: "\E01B";
 }
 
-.game-icon-menu-world:before {
+.game-icon-global-mp:before {
 	content: "\E01C";
 }
 
-.game-icon-inventory-menu-armor:before {
+.game-icon-menu-world:before {
 	content: "\E01D";
 }
 
-.game-icon-status-luk-plus:before {
+.game-icon-inventory-menu-armor:before {
 	content: "\E01E";
 }
 
-.game-icon-status-acc-plus:before {
+.game-icon-status-luk-plus:before {
 	content: "\E01F";
 }
 
-.game-icon-status-vit-plus:before {
+.game-icon-status-acc-plus:before {
 	content: "\E020";
 }
 
-.game-icon-inventory-menu-weapon:before {
+.game-icon-status-vit-plus:before {
 	content: "\E021";
 }
 
-.game-icon-status-stealth:before {
+.game-icon-inventory-menu-weapon:before {
 	content: "\E022";
 }
 

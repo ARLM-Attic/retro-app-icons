@@ -3,7 +3,7 @@ module.exports = {
   // global icons
   "health-normal": "global-hp",
   "drop": "global-mp",
-  "coins": "global-money",
+  "crown-coin": "global-money",
 
   // item icons
   "round-star": "item-tier-1",
@@ -22,7 +22,7 @@ module.exports = {
   "crossed-swords": "extra-fight",
 
   // menu icons
-  "anatomy": "menu-player",
+  "inner-self": "menu-player",
   "world": "menu-world",
   "swap-bag": "menu-inventory",
   "bowman": "menu-skills",
@@ -38,7 +38,7 @@ module.exports = {
 
   // status effects
   "health-increase": "status-regenerate",
-  "cloak-dagger": "status-stealth",
+  "invisible": "status-stealth",
   "blindfold": "status-blind",
   "fire": "status-burn",
   "frozen-orb": "status-freeze",
